@@ -148,36 +148,6 @@ The intended Bob workflow is:
 
 The `.bob/` assets are deliberately versioned with the project so the development workflow is reproducible for the team.
 
-## Demo narrative — 3 minutes
-
-**0:00–0:25 — The problem**
-
-“Teams already have GitHub, Jira, Slack and Calendar. The problem is that no one system knows the real state of the work. Plans go stale.”
-
-**0:25–0:55 — Observe**
-
-Click **Rebuild Digital Twin**. Show the four sources becoming LIVE or DEMO and the evidence counts. Say: “ORCHESTRA does not ask me to update the plan. It observes the organization and reconstructs the project state.”
-
-**0:55–1:25 — Digital Twin**
-
-Open Outcome Graph / Control Room. Point to Architecture → Prototype → Security → Launch. Show people load and evidence signals.
-
-**1:25–2:10 — What If?**
-
-Enter:
-
-> “What happens if we lose 20% engineering capacity but cannot move the deadline?”
-
-Run it. Explain: “Granite interprets the intent. The Digital Twin is mutated. The deterministic engine calculates schedule, value and risk. The Decision Agent explains the trade-off.”
-
-**2:10–2:35 — Decision**
-
-Show the recommendation: parallelize prototype/security work and remove a non-critical slice. Emphasize that the recommendation is proposed, not silently executed.
-
-**2:35–3:00 — The punchline**
-
-“Most AI productivity tools generate work. ORCHESTRA simulates work. It gives leaders a safe place to test the decision before reality tests it for them.”
-
 ## Challenge fit
 
 - **AI is core:** Granite interprets natural language and generates evidence-grounded explanations.
